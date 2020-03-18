@@ -33,7 +33,7 @@ Those models include Adaboost, Gradient Boost and Logistic Regression.
 <b>[Presentation Slides](https://github.com/joseh4/predicting_gang_violence/blob/master/Classifying%20Gang%20Violence%20in%20America.pdf)</b>
 
 #### Technical Notebook
-<b>[Technical Notebook](url)</b>
+<b>[Technical Notebook](https://github.com/joseh4/predicting_gang_violence/blob/master/working_notebook.ipynb)</b>
 
 #### Library Imports
 <b>[Library Imports Python File](url.py)</b>
