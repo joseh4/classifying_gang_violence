@@ -1,6 +1,6 @@
-# predicting_gang_violence
+# Predicting Gang Violence
 
-Analysis on predicting_gang_violence
+Analysis on predicting gang violence
 
 ### Project Members
    - <b>[Akshay Indusekar](https://github.com/aindusekar)</b>
@@ -30,7 +30,7 @@ Those models include Adaboost, Gradient Boost and Logistic Regression.
 ### Project Links
 
 #### Presentation
-<b>[Presentation Slides](url)</b>
+<b>[Presentation Slides](https://github.com/joseh4/predicting_gang_violence/blob/master/Classifying%20Gang%20Violence%20in%20America.pdf)</b>
 
 #### Technical Notebook
 <b>[Technical Notebook](url)</b>
